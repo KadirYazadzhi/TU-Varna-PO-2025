@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Order of tasks", "02. Order of tasks\02. Order of tasks.csproj", "{EAA549C0-E9B3-40CA-99B1-4026FE34F5B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA549C0-E9B3-40CA-99B1-4026FE34F5B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA549C0-E9B3-40CA-99B1-4026FE34F5B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA549C0-E9B3-40CA-99B1-4026FE34F5B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA549C0-E9B3-40CA-99B1-4026FE34F5B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
