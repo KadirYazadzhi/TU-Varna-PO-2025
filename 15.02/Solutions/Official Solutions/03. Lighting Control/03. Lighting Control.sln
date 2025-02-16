@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Lighting Control", "03. Lighting Control\03. Lighting Control.csproj", "{10011A98-3B43-4543-AC30-1591AE268AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10011A98-3B43-4543-AC30-1591AE268AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10011A98-3B43-4543-AC30-1591AE268AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10011A98-3B43-4543-AC30-1591AE268AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10011A98-3B43-4543-AC30-1591AE268AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
