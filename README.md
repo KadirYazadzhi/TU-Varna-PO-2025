@@ -57,7 +57,7 @@ Participants: High school students from grades **VIII to XII**.
 
 ## 📊 Rankings and Results
 
-- [Online Olympiad Rankings](#) (link to be added)
+- [Online Olympiad Rankings](https://www1.tu-varna.bg/tu-varna/images/novini/2025/03/Leaderboard.pdf) 
 - [On-Site Competition Rankings (March 30, 2025)](#) (link to be added)
 
 
